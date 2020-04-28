@@ -11,3 +11,4 @@
   * [Google AI Blog](https://ai.googleblog.com/) : The latest news from Google AI
   * [colah's blog](http://colah.github.io/) : ML/DL Blog
   * [aylien](https://blog.aylien.com/): ML/DL/NLP Blog
+  * [pingpong (KO)](https://blog.pingpong.us/) : PINGPONG AI RESEARCH
