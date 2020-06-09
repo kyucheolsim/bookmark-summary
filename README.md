@@ -10,5 +10,6 @@
 * ML/DL/AI/NLP Blog
   * [Google AI Blog](https://ai.googleblog.com/) : The latest news from Google AI
   * [colah's blog](http://colah.github.io/) : ML/DL Blog
-  * [aylien](https://blog.aylien.com/): ML/DL/NLP Blog
+  * [aylien](https://blog.aylien.com/) : ML/DL/NLP Blog
   * [pingpong (KO)](https://blog.pingpong.us/) : PINGPONG AI RESEARCH
+  * [lovit (KO)](https://lovit.github.io/) : LOVIT x DATA SCIENCE
